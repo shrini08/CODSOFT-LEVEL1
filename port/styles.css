@@ -1,0 +1,30 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background-color: #fff; /* Set the overall background color */
+}
+
+.header-section {
+  background-color: #ffcccc; /* Pink background color for the header */
+  text-align: center;
+  font-family: 'Verdana', sans-serif; /* Different font for the header */
+}
+
+#about, #projects, #resume {
+  background-color: #ffcccc; /* Pink background color for these sections */
+  padding: 20px;
+}
+
+#about, #projects, #resume, .footer-section {
+  font-family: 'Georgia', serif; /* Different font for these sections */
+}
+
+.project {
+  margin-bottom: 20px;
+}
+
+.footer-section {
+  text-align: center;
+}
